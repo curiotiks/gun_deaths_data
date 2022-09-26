@@ -1,5 +1,5 @@
 # Country Level Data on Gun Deaths and Ownership
-I've collected and cleaned data, mainly from around 2017, related to gun deaths, firearm ownership, happiness, income, etc. These are all collected from publicly available sources. 
+I've collected and cleaned data, mainly from around 2017, related to gun deaths, firearm ownership, happiness, income, etc. These are all collected from publicly available sources.
 
 [Reddit Post](https://www.reddit.com/r/Infographics/comments/vunkv3/gun_deaths_per_5m_people_compared_to_ownership/)
 
@@ -17,3 +17,8 @@ Small regularly conducted survey of gunownership around the world.
 
 For IQ, incomen and develop, selected variables were recorded on or near 2017 for accurate comparison.
 
+## Goals for data
+
+I'm interested in exploring possible relationships between gundeaths and other country-level variables (e.g., happiness, income, education, etc.). But I'm posting this publically for whatever purpose. 
+
+[Scatterplot](img/civ_ownership_deaths.png)
