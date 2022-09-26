@@ -21,4 +21,5 @@ For IQ, incomen and develop, selected variables were recorded on or near 2017 fo
 
 I'm interested in exploring possible relationships between gundeaths and other country-level variables (e.g., happiness, income, education, etc.). But I'm posting this publically for whatever purpose. 
 
-[Scatterplot](img/civ_ownership_deaths.png)
+# Comparing civilian gun ownership (per 100) with deaths resulting from interpersonal conflicts
+![Scatterplot](img/civ_ownership_deaths.png)
