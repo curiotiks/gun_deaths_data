@@ -1,0 +1,613 @@
+measure,location,sex,age,cause,metric,year,val,upper,lower
+Deaths,Haiti,Both,All ages,Self-harm by firearm,Number,2017,58.225081974983226,101.09246536622743,33.252994254071375
+Deaths,Haiti,Both,All ages,Physical violence by firearm,Number,2017,1232.4738832835774,1986.4141273568591,238.09660012705604
+Deaths,Djibouti,Both,All ages,Physical violence by firearm,Number,2017,36.5459337635265,58.048803036498065,20.39246648221985
+Deaths,Timor-Leste,Both,All ages,Physical violence by firearm,Number,2017,10.389448603882665,17.2545865344568,4.323954645426529
+Deaths,Poland,Both,All ages,Self-harm by firearm,Number,2017,61.57627931469395,94.19190369511993,50.88779405522633
+Deaths,Poland,Both,All ages,Physical violence by firearm,Number,2017,34.23805387344906,38.41650531267857,30.476765122758717
+Deaths,Lesotho,Both,All ages,Self-harm by firearm,Number,2017,43.20475392393506,109.41139536193613,9.456027785073843
+Deaths,Lesotho,Both,All ages,Physical violence by firearm,Number,2017,113.49448450060332,178.85322653803533,70.16997562561751
+Deaths,Chile,Both,All ages,Self-harm by firearm,Number,2017,117.13365322442183,138.87476698493626,85.0556455737557
+Deaths,Chile,Both,All ages,Physical violence by firearm,Number,2017,347.036106574631,371.60488385378693,322.8688750644151
+Deaths,Georgia,Both,All ages,Unintentional firearm injuries,Number,2017,33.65608904179925,39.47777243106634,20.100399259554983
+Deaths,Lesotho,Both,All ages,Unintentional firearm injuries,Number,2017,23.468447481639664,37.737296174697754,11.901551398473476
+Deaths,Eritrea,Both,All ages,Physical violence by firearm,Number,2017,223.20723344202935,341.4028724178678,134.44687671675553
+Deaths,Timor-Leste,Both,All ages,Unintentional firearm injuries,Number,2017,1.1475609787093448,2.204050834409994,0.5009366278010281
+Deaths,Timor-Leste,Both,All ages,Self-harm by firearm,Number,2017,1.0724850729608908,2.6235536888455213,0.47330075437920704
+Deaths,United States Virgin Islands,Both,All ages,Unintentional firearm injuries,Number,2017,0.7017218980252174,0.9540941122120535,0.43229710137064525
+Deaths,Lebanon,Both,All ages,Unintentional firearm injuries,Number,2017,4.162207681802212,10.822005927398372,1.7178363579123863
+Deaths,Bermuda,Both,All ages,Self-harm by firearm,Number,2017,0.032240983679482124,0.040983726122638,0.02378280481869734
+Deaths,Bermuda,Both,All ages,Physical violence by firearm,Number,2017,0.9230805125957922,1.0772997556557453,0.779316188358169
+Deaths,Mali,Both,All ages,Self-harm by firearm,Number,2017,83.08386860605926,167.01869251473966,38.45136584049703
+Deaths,Mali,Both,All ages,Physical violence by firearm,Number,2017,596.3156177852903,869.2652995359065,346.4137269213557
+Deaths,Lebanon,Both,All ages,Self-harm by firearm,Number,2017,8.289821316449196,13.690143340892822,4.43709993568668
+Deaths,Lebanon,Both,All ages,Physical violence by firearm,Number,2017,213.06930768309167,267.9049686141287,184.7335170002663
+Deaths,Liberia,Both,All ages,Unintentional firearm injuries,Number,2017,32.00797047537043,69.95845409580058,16.926220681394707
+Deaths,Liberia,Both,All ages,Self-harm by firearm,Number,2017,20.184069579536455,39.50120901001867,8.840450831271395
+Deaths,Viet Nam,Both,All ages,Unintentional firearm injuries,Number,2017,243.47207058031287,410.12221018735767,91.20289958331132
+Deaths,Mexico,Both,All ages,Self-harm by firearm,Number,2017,886.3858303115765,1400.6039495606785,781.9864943066395
+Deaths,Mexico,Both,All ages,Physical violence by firearm,Number,2017,22013.28443416611,22716.717873129055,21627.954311830083
+Deaths,Mexico,Both,All ages,Unintentional firearm injuries,Number,2017,735.5062045268104,853.7569271824128,615.7319175844067
+Deaths,Bermuda,Both,All ages,Unintentional firearm injuries,Number,2017,0.1028722114159186,0.13694624555022408,0.07972696714830033
+Deaths,Liberia,Both,All ages,Physical violence by firearm,Number,2017,34.95818187332902,51.182936566320436,21.975073344274215
+Deaths,Japan,Both,All ages,Self-harm by firearm,Number,2017,44.56873478695263,59.74841024431924,36.40450182855686
+Deaths,Japan,Both,All ages,Physical violence by firearm,Number,2017,26.62582206643576,27.847282697486854,24.81554438997505
+Deaths,Bhutan,Both,All ages,Self-harm by firearm,Number,2017,1.3127342062618592,2.628602927493534,0.6989062731226989
+Deaths,Bhutan,Both,All ages,Physical violence by firearm,Number,2017,0.8774245825146932,1.7422480415803292,0.36779063976372706
+Deaths,Bhutan,Both,All ages,Unintentional firearm injuries,Number,2017,2.043506986377475,6.524657922610859,0.6769576116148174
+Deaths,Jamaica,Both,All ages,Physical violence by firearm,Number,2017,286.39718376265074,349.987518696957,232.57062241118047
+Deaths,Iceland,Both,All ages,Unintentional firearm injuries,Number,2017,0.09260991239143998,0.12042014167444612,0.07348135205636044
+Deaths,Georgia,Both,All ages,Self-harm by firearm,Number,2017,26.206983564246304,36.527900581409064,21.694983448801526
+Deaths,Georgia,Both,All ages,Physical violence by firearm,Number,2017,44.982703594672095,51.44357082590991,38.10312498672366
+Deaths,Viet Nam,Both,All ages,Self-harm by firearm,Number,2017,144.12921236918638,266.480223351237,88.86110984321923
+Deaths,Viet Nam,Both,All ages,Physical violence by firearm,Number,2017,128.1388249728538,373.25311036436517,49.9488240844356
+Deaths,Uruguay,Both,All ages,Self-harm by firearm,Number,2017,168.96945236139553,215.09768255651866,151.77673481874635
+Deaths,Uruguay,Both,All ages,Physical violence by firearm,Number,2017,151.9234529989272,164.3065974137122,139.64399151553175
+Deaths,Uruguay,Both,All ages,Unintentional firearm injuries,Number,2017,81.47405601966321,87.42054278846514,75.9426511876666
+Deaths,Poland,Both,All ages,Unintentional firearm injuries,Number,2017,17.748806625667534,21.198224997132506,11.986701254660261
+Deaths,Kazakhstan,Both,All ages,Unintentional firearm injuries,Number,2017,55.01677680323508,67.53404222510588,41.623584316946456
+Deaths,Namibia,Both,All ages,Unintentional firearm injuries,Number,2017,10.257130599761568,17.455230175401024,4.53541088489167
+Deaths,Iceland,Both,All ages,Self-harm by firearm,Number,2017,4.233300915405484,5.334637956684106,3.1894387065642746
+Deaths,Iceland,Both,All ages,Physical violence by firearm,Number,2017,0.215439947938603,0.23630578410223152,0.19440408770580705
+Deaths,Eritrea,Both,All ages,Unintentional firearm injuries,Number,2017,68.04637462422698,105.9873441494066,37.869639153752296
+Deaths,Eritrea,Both,All ages,Self-harm by firearm,Number,2017,41.615681603371684,69.88675008053028,20.028606134389598
+Deaths,Romania,Both,All ages,Unintentional firearm injuries,Number,2017,9.034179933678189,10.692098767948808,5.752412450388602
+Deaths,Japan,Both,All ages,Unintentional firearm injuries,Number,2017,28.14357976027373,35.46654702679852,23.13387170823615
+Deaths,United States Virgin Islands,Both,All ages,Self-harm by firearm,Number,2017,2.480392760951001,3.5947324235957407,1.6119251713363794
+Deaths,India,Both,All ages,Self-harm by firearm,Number,2017,5868.6608744133855,8478.687970807649,3809.362155556654
+Deaths,Libya,Both,All ages,Self-harm by firearm,Number,2017,15.032380531693573,23.044666719739475,9.023724921396234
+Deaths,Libya,Both,All ages,Physical violence by firearm,Number,2017,482.2025837036011,521.360466602391,446.96730271056634
+Deaths,Greenland,Both,All ages,Unintentional firearm injuries,Number,2017,0.46906636377984223,0.65817173512784,0.2561356603400233
+Deaths,Jamaica,Both,All ages,Unintentional firearm injuries,Number,2017,68.29770183535162,83.77844761582239,54.37909530742208
+Deaths,Mali,Both,All ages,Unintentional firearm injuries,Number,2017,172.68870924990276,299.8448910804389,94.00634255191602
+Deaths,Kazakhstan,Both,All ages,Physical violence by firearm,Number,2017,98.9651135652457,110.61482406468248,87.47102925238052
+Deaths,Namibia,Both,All ages,Self-harm by firearm,Number,2017,14.426087223268265,23.111824214458892,8.358456232705992
+Deaths,Namibia,Both,All ages,Physical violence by firearm,Number,2017,80.68583887345375,122.64436214367086,47.64495197479409
+Deaths,India,Both,All ages,Physical violence by firearm,Number,2017,7543.6552605807055,9081.994957445482,6323.143760404271
+Deaths,Greenland,Both,All ages,Self-harm by firearm,Number,2017,9.489506340976556,14.686622051780821,7.068690417902201
+Deaths,Greenland,Both,All ages,Physical violence by firearm,Number,2017,1.2384769653324896,1.629530659665716,0.9314104746403538
+Deaths,Cook Islands,Both,All ages,Unintentional firearm injuries,Number,2017,0.003193300825191608,0.006709125579123086,0.0013523778101334637
+Deaths,United States Virgin Islands,Both,All ages,Physical violence by firearm,Number,2017,20.90278707939803,27.232018897254328,16.129017566273195
+Deaths,Ethiopia,Both,All ages,Unintentional firearm injuries,Number,2017,1105.0479146640732,1534.4753283985929,702.973417055152
+Deaths,Cook Islands,Both,All ages,Self-harm by firearm,Number,2017,0.09023749118956172,0.13331062721616777,0.044407599983800616
+Deaths,Cook Islands,Both,All ages,Physical violence by firearm,Number,2017,0.03129446239384339,0.047448873547920864,0.02004277184143327
+Deaths,Fiji,Both,All ages,Unintentional firearm injuries,Number,2017,0.4375487552372536,0.6734979156079116,0.30366800717637654
+Deaths,Serbia,Both,All ages,Unintentional firearm injuries,Number,2017,12.953126379466921,17.166878477651746,7.081973461979814
+Deaths,China,Both,All ages,Unintentional firearm injuries,Number,2017,334.2221869110944,628.3072460266949,230.9974683795475
+Deaths,South Africa,Both,All ages,Physical violence by firearm,Number,2017,2854.819185393748,3714.2159639054685,2348.8053816716347
+Deaths,Eswatini,Both,All ages,Self-harm by firearm,Number,2017,13.712028847806371,28.082660908811146,4.756275740723284
+Deaths,Eswatini,Both,All ages,Physical violence by firearm,Number,2017,41.86653233113534,66.82901883322567,24.438195660790523
+Deaths,Canada,Both,All ages,Self-harm by firearm,Number,2017,697.1355582761433,920.6360920981241,602.2517067388962
+Deaths,Canada,Both,All ages,Physical violence by firearm,Number,2017,176.44175725677792,192.67709085190563,160.11316520346725
+Deaths,India,Both,All ages,Unintentional firearm injuries,Number,2017,577.255743266827,815.3401432744516,302.10612117759825
+Deaths,Panama,Both,All ages,Unintentional firearm injuries,Number,2017,3.2914873104480513,4.591208229498029,2.541259414990079
+Deaths,Libya,Both,All ages,Unintentional firearm injuries,Number,2017,7.613959795263504,20.95706805838202,3.3748650109361225
+Deaths,Nicaragua,Both,All ages,Unintentional firearm injuries,Number,2017,19.66814749649583,27.67663314234512,14.912883166226264
+Deaths,Nicaragua,Both,All ages,Self-harm by firearm,Number,2017,18.86152032282858,31.664361224625484,12.439298659314957
+Deaths,Fiji,Both,All ages,Self-harm by firearm,Number,2017,0.44987039654477634,0.7927061626505125,0.31080536805513814
+Deaths,Fiji,Both,All ages,Physical violence by firearm,Number,2017,1.3945284674871388,1.8870376251280068,1.0049537654002991
+Deaths,Saint Lucia,Both,All ages,Unintentional firearm injuries,Number,2017,2.362437730789043,2.7976223297528184,1.9382334290528918
+Deaths,China,Both,All ages,Self-harm by firearm,Number,2017,475.15384741927056,867.3803141133694,334.2559179392854
+Deaths,China,Both,All ages,Physical violence by firearm,Number,2017,336.0529658004082,394.80170815529334,282.2633436946249
+Deaths,Ireland,Both,All ages,Unintentional firearm injuries,Number,2017,2.244253132105387,2.6616795212574154,1.353672995106879
+Deaths,Jamaica,Both,All ages,Self-harm by firearm,Number,2017,16.039135616087915,21.932644253209336,12.385425685048848
+Deaths,Ethiopia,Both,All ages,Self-harm by firearm,Number,2017,329.194343511873,572.5210302850336,216.34504939889385
+Deaths,Ethiopia,Both,All ages,Physical violence by firearm,Number,2017,2198.184572463662,2740.2201544932,1675.0941459383107
+Deaths,Saint Lucia,Both,All ages,Self-harm by firearm,Number,2017,0.5135100742467246,0.7006158763641488,0.3588435076249348
+Deaths,Saint Lucia,Both,All ages,Physical violence by firearm,Number,2017,17.5575698664151,20.05034060276301,15.253594888448728
+Deaths,Nicaragua,Both,All ages,Physical violence by firearm,Number,2017,182.55510156897427,240.0373488511287,156.36524429294013
+Deaths,Israel,Both,All ages,Unintentional firearm injuries,Number,2017,8.92962696043502,10.96516153383903,7.906060354758827
+Deaths,Democratic People's Republic of Korea,Both,All ages,Self-harm by firearm,Number,2017,28.817673287396904,64.82850612565967,16.53778829828915
+Deaths,Romania,Both,All ages,Self-harm by firearm,Number,2017,11.961755521323305,16.024226544642172,9.67828999806477
+Deaths,Romania,Both,All ages,Physical violence by firearm,Number,2017,14.907835174365873,15.946693874726467,13.860202019349227
+Deaths,South Africa,Both,All ages,Unintentional firearm injuries,Number,2017,257.2139869837227,372.6427755995358,167.61668294930794
+Deaths,Kenya,Both,All ages,Self-harm by firearm,Number,2017,186.89867515268278,306.51651082511023,111.78463868603455
+Deaths,Kenya,Both,All ages,Physical violence by firearm,Number,2017,1471.24545281298,1908.2529789160283,1070.0112681272108
+Deaths,Nepal,Both,All ages,Unintentional firearm injuries,Number,2017,30.194744571676335,55.2053195073901,5.506851353121237
+Deaths,Mauritania,Both,All ages,Unintentional firearm injuries,Number,2017,15.501170861942066,27.724549916071645,8.14684495423535
+Deaths,Mauritania,Both,All ages,Self-harm by firearm,Number,2017,11.274784799676189,23.986909494356457,5.77374499947122
+Deaths,Mauritania,Both,All ages,Physical violence by firearm,Number,2017,63.263045087703674,95.73153222936389,38.192492719980116
+Deaths,Singapore,Both,All ages,Unintentional firearm injuries,Number,2017,0.8412481144575624,0.9662497870970782,0.6968344590451495
+Deaths,Democratic People's Republic of Korea,Both,All ages,Physical violence by firearm,Number,2017,36.34168943053431,56.107190757881206,22.286768061359165
+Deaths,South Africa,Both,All ages,Self-harm by firearm,Number,2017,363.6606413367409,594.7183588705386,185.4221177214114
+Deaths,Ireland,Both,All ages,Self-harm by firearm,Number,2017,18.521427495748014,37.93747958209314,14.083989648467321
+Deaths,Ireland,Both,All ages,Physical violence by firearm,Number,2017,8.938336472901304,9.912513301394446,8.029703933079647
+Deaths,Panama,Both,All ages,Self-harm by firearm,Number,2017,7.237678426930747,9.287090513161784,5.333042415595283
+Deaths,Singapore,Both,All ages,Self-harm by firearm,Number,2017,1.363212631334654,1.59528170455798,0.836162334888804
+Deaths,Morocco,Both,All ages,Unintentional firearm injuries,Number,2017,423.8765412506418,1055.1058051244167,126.66416036310828
+Deaths,Morocco,Both,All ages,Self-harm by firearm,Number,2017,95.22172642021059,171.83201700028502,44.83866017581512
+Deaths,Morocco,Both,All ages,Physical violence by firearm,Number,2017,178.4853575566094,334.86169264270455,87.28823512590964
+Deaths,Kyrgyzstan,Both,All ages,Self-harm by firearm,Number,2017,6.710922456503115,8.622694528445438,5.026741971982476
+Deaths,Kyrgyzstan,Both,All ages,Physical violence by firearm,Number,2017,17.597637977216873,19.18867375311298,16.0289405267267
+Deaths,Venezuela (Bolivarian Republic of),Both,All ages,Self-harm by firearm,Number,2017,721.018473291841,942.3117202834237,519.2199630905942
+Deaths,Venezuela (Bolivarian Republic of),Both,All ages,Physical violence by firearm,Number,2017,9868.02830590299,12385.179284077805,7734.706593467715
+Deaths,Kenya,Both,All ages,Unintentional firearm injuries,Number,2017,365.80150590849075,523.2747366120227,252.15218643043494
+Deaths,Kyrgyzstan,Both,All ages,Unintentional firearm injuries,Number,2017,11.897244772941558,13.8759518279313,7.915734847705506
+Deaths,Guam,Both,All ages,Unintentional firearm injuries,Number,2017,0.11920993863103638,0.371538982767461,0.06108310754280316
+Deaths,Guam,Both,All ages,Self-harm by firearm,Number,2017,2.5249901928069405,3.745718340078074,1.4651454433900293
+Deaths,Kazakhstan,Both,All ages,Self-harm by firearm,Number,2017,51.0317744846284,67.48313694879141,41.32845707342196
+Deaths,Singapore,Both,All ages,Physical violence by firearm,Number,2017,0.8630045202157256,0.9234594754650074,0.8054204260232308
+Deaths,Panama,Both,All ages,Physical violence by firearm,Number,2017,437.28598114395186,511.6142410371563,371.2724929193703
+Deaths,Zimbabwe,Both,All ages,Unintentional firearm injuries,Number,2017,44.73934490737069,86.3181548042456,22.20579724444769
+Deaths,Israel,Both,All ages,Self-harm by firearm,Number,2017,94.09371812101712,109.35607499424201,69.48566010642298
+Deaths,Israel,Both,All ages,Physical violence by firearm,Number,2017,90.4739144784688,97.37972375343647,84.15642883059117
+Deaths,Saint Vincent and the Grenadines,Both,All ages,Self-harm by firearm,Number,2017,0.17042593899939795,0.21205594876822126,0.12931503742465095
+Deaths,Saint Vincent and the Grenadines,Both,All ages,Physical violence by firearm,Number,2017,10.99932709386109,12.446373293917746,9.587328306423421
+Deaths,Niger,Both,All ages,Self-harm by firearm,Number,2017,83.64276657005837,163.3401137670521,39.36230346001093
+Deaths,Niger,Both,All ages,Physical violence by firearm,Number,2017,495.06896253286453,782.1640540004167,247.65950227202853
+Deaths,Nepal,Both,All ages,Self-harm by firearm,Number,2017,131.6794242758772,202.45353552909745,68.24432617319484
+Deaths,Nepal,Both,All ages,Physical violence by firearm,Number,2017,30.168438012090196,43.275886288391575,19.70242903389317
+Deaths,Republic of Korea,Both,All ages,Unintentional firearm injuries,Number,2017,7.863773053899219,12.668723470887333,5.86461316515029
+Deaths,Slovakia,Both,All ages,Self-harm by firearm,Number,2017,50.87878326318864,74.40727775156013,28.778232652470276
+Deaths,Slovakia,Both,All ages,Physical violence by firearm,Number,2017,15.324730990940177,19.34548367861012,12.080264527388602
+Deaths,Eswatini,Both,All ages,Unintentional firearm injuries,Number,2017,7.636039655472255,14.318120840290364,3.325520454471482
+Deaths,Niger,Both,All ages,Unintentional firearm injuries,Number,2017,160.83849542589502,277.96724954533397,80.19781233702946
+Deaths,United States of America,Both,All ages,Unintentional firearm injuries,Number,2017,697.8094499786466,874.9235191681789,595.1671258821383
+Deaths,United States of America,Both,All ages,Self-harm by firearm,Number,2017,23952.83065468695,26880.589812534497,22727.467561895624
+Deaths,United States of America,Both,All ages,Physical violence by firearm,Number,2017,13963.93043060566,14300.87652530112,13022.526297235328
+Deaths,South Sudan,Both,All ages,Unintentional firearm injuries,Number,2017,63.51984669736891,119.8326021069351,21.959644211219846
+Deaths,South Sudan,Both,All ages,Self-harm by firearm,Number,2017,27.36380595749152,51.0272491202424,14.386461063432794
+Deaths,South Sudan,Both,All ages,Physical violence by firearm,Number,2017,192.49921417713463,324.64890220842506,102.83291256419591
+Deaths,Kiribati,Both,All ages,Physical violence by firearm,Number,2017,0.4489904872114667,0.6844024338164842,0.1885322762036786
+Deaths,Guam,Both,All ages,Physical violence by firearm,Number,2017,0.9060689212688062,1.164474675948233,0.6592151416033187
+Deaths,Republic of Korea,Both,All ages,Self-harm by firearm,Number,2017,21.990176207843426,31.704126271461092,10.282878727397723
+Deaths,Republic of Korea,Both,All ages,Physical violence by firearm,Number,2017,12.827995433693085,15.325626258219808,10.092686691359239
+Deaths,Democratic People's Republic of Korea,Both,All ages,Unintentional firearm injuries,Number,2017,29.38771495954264,72.49802412127231,12.05976251508085
+Deaths,Serbia,Both,All ages,Self-harm by firearm,Number,2017,211.58079015511936,336.86619642759825,141.4792739671445
+Deaths,Serbia,Both,All ages,Physical violence by firearm,Number,2017,79.4367117715893,94.4643790248076,67.1710667008237
+Deaths,Taiwan (Province of China),Both,All ages,Self-harm by firearm,Number,2017,16.02384390464647,24.897270928709457,12.826957292002284
+Deaths,Taiwan (Province of China),Both,All ages,Physical violence by firearm,Number,2017,28.75883601530919,33.404809184021424,24.526871599492654
+Deaths,Palestine,Both,All ages,Physical violence by firearm,Number,2017,250.54085032150402,299.6694904738093,213.80283679396828
+Deaths,Italy,Both,All ages,Physical violence by firearm,Number,2017,218.85483035676012,233.95383964694548,208.96185906143197
+Deaths,Canada,Both,All ages,Unintentional firearm injuries,Number,2017,19.000628173766057,28.448522813639677,15.946934898956387
+Deaths,Venezuela (Bolivarian Republic of),Both,All ages,Unintentional firearm injuries,Number,2017,634.630495261369,806.520089174629,489.8587994701297
+Deaths,Monaco,Both,All ages,Unintentional firearm injuries,Number,2017,0.01804052158554631,0.02681824321649511,0.012183582136547024
+Deaths,Pakistan,Both,All ages,Unintentional firearm injuries,Number,2017,529.3703278737075,779.5182049209377,291.4251197177641
+Deaths,Taiwan (Province of China),Both,All ages,Unintentional firearm injuries,Number,2017,5.218370269741322,7.715345596209379,4.249929978382982
+Deaths,Malawi,Both,All ages,Unintentional firearm injuries,Number,2017,111.47156581065082,163.6306210403153,70.45130186606146
+Deaths,Italy,Both,All ages,Unintentional firearm injuries,Number,2017,66.69310958762956,73.3581404232917,35.049920114165324
+Deaths,Pakistan,Both,All ages,Self-harm by firearm,Number,2017,700.0482170514038,1339.433468926937,380.5071294681662
+Deaths,Pakistan,Both,All ages,Physical violence by firearm,Number,2017,1647.822289126537,2596.5068380748517,947.8040497266096
+Deaths,Malawi,Both,All ages,Self-harm by firearm,Number,2017,91.0931874129066,156.82492318493104,50.02567813287117
+Deaths,Marshall Islands,Both,All ages,Unintentional firearm injuries,Number,2017,0.1901818349168092,0.336923732292681,0.08485285330597596
+Deaths,Italy,Both,All ages,Self-harm by firearm,Number,2017,488.83616092754283,643.2753470449588,392.3537397613407
+Deaths,Nigeria,Both,All ages,Unintentional firearm injuries,Number,2017,1168.9932295822848,1725.5755755672706,725.3031118285189
+Deaths,Slovenia,Both,All ages,Unintentional firearm injuries,Number,2017,0.46224968354004303,0.8508033673971486,0.3642257608855091
+Deaths,Slovakia,Both,All ages,Unintentional firearm injuries,Number,2017,10.918301737538515,15.09663901841218,4.73105588288104
+Deaths,Trinidad and Tobago,Both,All ages,Unintentional firearm injuries,Number,2017,2.740877902024534,3.6858861225942845,1.9098363149447295
+Deaths,Marshall Islands,Both,All ages,Self-harm by firearm,Number,2017,0.6589860069954027,1.0625420389664986,0.28285257151171483
+Deaths,Marshall Islands,Both,All ages,Physical violence by firearm,Number,2017,0.623968606410749,0.9957084964141312,0.38692252953530565
+Deaths,Malawi,Both,All ages,Physical violence by firearm,Number,2017,109.59549748564076,170.48938033906816,67.18381232377592
+Deaths,Zimbabwe,Both,All ages,Self-harm by firearm,Number,2017,87.90371006889228,129.94312914219762,50.0195511853959
+Deaths,Zimbabwe,Both,All ages,Physical violence by firearm,Number,2017,112.77468553975294,176.22609468916767,68.40381922294473
+Deaths,Luxembourg,Both,All ages,Unintentional firearm injuries,Number,2017,0.2869234279275089,0.34927052555386545,0.20190443285792578
+Deaths,Micronesia (Federated States of),Both,All ages,Self-harm by firearm,Number,2017,1.2885311460981421,2.1981991962622436,0.4509474937930084
+Deaths,Micronesia (Federated States of),Both,All ages,Physical violence by firearm,Number,2017,1.2571450871738017,1.9923006688167235,0.6701990410292696
+Deaths,Mongolia,Both,All ages,Unintentional firearm injuries,Number,2017,1.5430525147373642,2.90530030446416,0.9298502721046853
+Deaths,Oman,Both,All ages,Self-harm by firearm,Number,2017,1.880906300632363,4.218788013200544,1.0626983575977664
+Deaths,Oman,Both,All ages,Physical violence by firearm,Number,2017,1.2111860062579607,1.741244334373552,0.7436952521550135
+Deaths,Tajikistan,Both,All ages,Unintentional firearm injuries,Number,2017,19.541520296859833,28.49644636540917,7.0568088332240935
+Deaths,Benin,Both,All ages,Physical violence by firearm,Number,2017,252.22877604912603,367.4051914715212,169.7417153297409
+Deaths,Suriname,Both,All ages,Self-harm by firearm,Number,2017,6.254768908277507,10.384269157154211,4.045970753163177
+Deaths,Suriname,Both,All ages,Physical violence by firearm,Number,2017,16.94309521205323,21.462494166927797,13.425899197934395
+Deaths,Suriname,Both,All ages,Unintentional firearm injuries,Number,2017,4.285362138267207,5.7374345933641955,2.745232522502602
+Deaths,Trinidad and Tobago,Both,All ages,Self-harm by firearm,Number,2017,2.096940228004282,3.370072559964979,1.4344592933985976
+Deaths,Trinidad and Tobago,Both,All ages,Physical violence by firearm,Number,2017,224.98323395902761,286.99213215097245,170.35566587585458
+Deaths,Oman,Both,All ages,Unintentional firearm injuries,Number,2017,0.5284513669881022,1.281733163124091,0.30483946067554
+Deaths,Mauritius,Both,All ages,Self-harm by firearm,Number,2017,1.3024707239103237,1.5989279214655763,0.9669651284470349
+Deaths,Mauritius,Both,All ages,Physical violence by firearm,Number,2017,3.048179106827654,3.3552318777601684,2.758894503285412
+Deaths,New Zealand,Both,All ages,Self-harm by firearm,Number,2017,38.17742407622149,51.87049058493725,31.527520018629566
+Deaths,New Zealand,Both,All ages,Physical violence by firearm,Number,2017,6.767343490095646,7.163681733133424,6.388152117712613
+Deaths,Qatar,Both,All ages,Self-harm by firearm,Number,2017,1.2666026915461717,2.687635663779309,0.7091184543154566
+Deaths,Qatar,Both,All ages,Physical violence by firearm,Number,2017,3.4043830591575177,5.272189045389116,1.812681941107764
+Deaths,Niue,Both,All ages,Self-harm by firearm,Number,2017,0.008698964145216937,0.013503342201574382,0.0038501813163620137
+Deaths,Malta,Both,All ages,Self-harm by firearm,Number,2017,2.3746651606940055,3.0226202452059354,1.8402887032477309
+Deaths,Malta,Both,All ages,Physical violence by firearm,Number,2017,2.1289734691128945,2.337578598236517,1.9154881007490585
+Deaths,Saint Vincent and the Grenadines,Both,All ages,Unintentional firearm injuries,Number,2017,1.6879822616078393,1.9878039357870547,1.4243938715349722
+Deaths,Belarus,Both,All ages,Self-harm by firearm,Number,2017,57.44064086101806,79.94126950988185,40.44370299270987
+Deaths,Belarus,Both,All ages,Physical violence by firearm,Number,2017,42.89134642837965,54.100124791292274,33.4624580562041
+Deaths,Niue,Both,All ages,Physical violence by firearm,Number,2017,0.010822902199231677,0.017637026747818807,0.006632212367251377
+Deaths,Kiribati,Both,All ages,Unintentional firearm injuries,Number,2017,0.11731204057526343,0.28288678241930226,0.059499351390927
+Deaths,Mozambique,Both,All ages,Unintentional firearm injuries,Number,2017,210.2720065433416,330.7286960253148,123.84245134100124
+Deaths,Mauritius,Both,All ages,Unintentional firearm injuries,Number,2017,0.2652793401260039,0.3999126265268756,0.22766572311177166
+Deaths,Papua New Guinea,Both,All ages,Unintentional firearm injuries,Number,2017,25.935931021853687,70.62222869797834,10.082448112494639
+Deaths,Mongolia,Both,All ages,Self-harm by firearm,Number,2017,20.24725447254259,28.46688736495203,7.716706456472824
+Deaths,Mongolia,Both,All ages,Physical violence by firearm,Number,2017,7.5359309622657085,15.134188471830173,4.358173409030048
+Deaths,Turkmenistan,Both,All ages,Self-harm by firearm,Number,2017,6.430507928548772,10.501246655681959,4.601253040779607
+Deaths,Tajikistan,Both,All ages,Self-harm by firearm,Number,2017,2.4969777369020183,3.845227753586081,1.6153754162538758
+Deaths,Tajikistan,Both,All ages,Physical violence by firearm,Number,2017,15.386977931607188,22.54156451068936,11.245468117348565
+Deaths,Qatar,Both,All ages,Unintentional firearm injuries,Number,2017,1.8310055773254381,3.2775596082509213,0.9422238828976235
+Deaths,Monaco,Both,All ages,Self-harm by firearm,Number,2017,1.0204973919471787,1.4863040779250016,0.7476831401988393
+Deaths,Monaco,Both,All ages,Physical violence by firearm,Number,2017,0.03353459861039725,0.045739307264273485,0.024064526917113617
+Deaths,Paraguay,Both,All ages,Physical violence by firearm,Number,2017,484.39074471199007,632.9623351547908,379.0759979266466
+Deaths,Palestine,Both,All ages,Self-harm by firearm,Number,2017,2.765888757085448,3.6404505979981807,1.6289408046982377
+Deaths,Kiribati,Both,All ages,Self-harm by firearm,Number,2017,0.22081519423115745,0.3850606283754258,0.14264238698695977
+Deaths,Micronesia (Federated States of),Both,All ages,Unintentional firearm injuries,Number,2017,0.30154879697186365,0.523232703030111,0.1524331104754261
+Deaths,Antigua and Barbuda,Both,All ages,Self-harm by firearm,Number,2017,0.056065518393356266,0.07186277318198374,0.044134233395917585
+Deaths,Antigua and Barbuda,Both,All ages,Physical violence by firearm,Number,2017,1.7929369238525688,2.0558828815352306,1.5522115766359048
+Deaths,Benin,Both,All ages,Unintentional firearm injuries,Number,2017,96.35627581337486,184.88730118069296,49.1516201948053
+Deaths,Benin,Both,All ages,Self-harm by firearm,Number,2017,54.11075516000534,86.9980828682413,30.30643176537391
+Deaths,Madagascar,Both,All ages,Unintentional firearm injuries,Number,2017,182.0766727836158,273.0503121369467,112.10226663062903
+Deaths,Samoa,Both,All ages,Unintentional firearm injuries,Number,2017,0.3418639627022406,0.5517230762877041,0.17704904741851224
+Deaths,Turkmenistan,Both,All ages,Unintentional firearm injuries,Number,2017,18.695433867639668,28.41778452271337,11.143315208928916
+Deaths,Palestine,Both,All ages,Unintentional firearm injuries,Number,2017,33.027418230634865,51.22689077503659,2.1878194945440446
+Deaths,Indonesia,Both,All ages,Self-harm by firearm,Number,2017,154.86705038521154,324.49160695372416,99.64521268540702
+Deaths,Indonesia,Both,All ages,Physical violence by firearm,Number,2017,151.54104451373922,208.4913143429966,122.39748117047456
+Deaths,Angola,Both,All ages,Self-harm by firearm,Number,2017,105.11066115171776,161.6208925771898,58.95927488553092
+Deaths,Angola,Both,All ages,Physical violence by firearm,Number,2017,153.24550832377767,260.5256190745016,92.23367997372128
+Deaths,Samoa,Both,All ages,Self-harm by firearm,Number,2017,1.0898480402316397,1.844991051283741,0.5191018680406985
+Deaths,Samoa,Both,All ages,Physical violence by firearm,Number,2017,1.8204554175715792,2.8467571431470526,1.0358953947094283
+Deaths,Senegal,Both,All ages,Unintentional firearm injuries,Number,2017,96.8631438074871,153.91450515275795,59.17811508275088
+Deaths,Antigua and Barbuda,Both,All ages,Unintentional firearm injuries,Number,2017,3.6550033866903995,4.314340649799761,3.0498870670843825
+Deaths,Sao Tome and Principe,Both,All ages,Self-harm by firearm,Number,2017,0.2981200178115603,0.532433024856592,0.1225396661278641
+Deaths,Sao Tome and Principe,Both,All ages,Physical violence by firearm,Number,2017,3.1352350094482366,4.537610769280845,2.0715417813845938
+Deaths,Turkmenistan,Both,All ages,Physical violence by firearm,Number,2017,32.302304390251734,42.36461410694423,19.958847859840375
+Deaths,Rwanda,Both,All ages,Self-harm by firearm,Number,2017,45.64713967008206,81.12470641051178,25.508404316542823
+Deaths,Rwanda,Both,All ages,Physical violence by firearm,Number,2017,129.5507311908929,183.1955354459568,85.97874472577226
+Deaths,Cambodia,Both,All ages,Unintentional firearm injuries,Number,2017,23.71920649173546,43.745942017632125,12.61283723438256
+Deaths,Cambodia,Both,All ages,Self-harm by firearm,Number,2017,14.741488468869319,30.672430270136832,9.583831862719752
+Deaths,Latvia,Both,All ages,Self-harm by firearm,Number,2017,16.456829561839534,21.716899756291504,10.659787335197866
+Deaths,Latvia,Both,All ages,Physical violence by firearm,Number,2017,8.280691246542759,9.688406674568466,7.035872129272236
+Deaths,Central African Republic,Both,All ages,Self-harm by firearm,Number,2017,49.865520595515434,95.53147261370084,20.311398826107737
+Deaths,Central African Republic,Both,All ages,Physical violence by firearm,Number,2017,85.31314782715532,150.82384231624118,61.591771536636486
+Deaths,Indonesia,Both,All ages,Unintentional firearm injuries,Number,2017,140.76619210510904,237.17017188951567,41.33735755580406
+Deaths,Central African Republic,Both,All ages,Unintentional firearm injuries,Number,2017,75.41714228689291,129.0894088824201,41.036855649101526
+Deaths,Madagascar,Both,All ages,Self-harm by firearm,Number,2017,102.15033722196517,165.89796662851336,59.24258515429539
+Deaths,Madagascar,Both,All ages,Physical violence by firearm,Number,2017,154.46546048678266,216.38212444593222,101.59196684624386
+Deaths,Nigeria,Both,All ages,Self-harm by firearm,Number,2017,452.31056129265403,780.0007077667092,280.2150109221508
+Deaths,Nigeria,Both,All ages,Physical violence by firearm,Number,2017,3817.603980108233,5203.795790174488,2559.3552361009743
+Deaths,Northern Mariana Islands,Both,All ages,Unintentional firearm injuries,Number,2017,0.11651490430645668,0.2709084861818757,0.0726451281518844
+Deaths,Australia,Both,All ages,Self-harm by firearm,Number,2017,176.68566074908622,253.09526868764428,151.14468269462338
+Deaths,Australia,Both,All ages,Physical violence by firearm,Number,2017,44.67378507560383,47.918527431779154,41.60827620906289
+Deaths,Austria,Both,All ages,Self-harm by firearm,Number,2017,236.2826029917075,269.16249993521643,166.40493862714735
+Deaths,Cambodia,Both,All ages,Physical violence by firearm,Number,2017,162.8759925569021,249.30142863831716,109.84600768962602
+Deaths,Estonia,Both,All ages,Unintentional firearm injuries,Number,2017,0.8174719709460848,1.226638175252802,0.6240863057001232
+Deaths,Austria,Both,All ages,Physical violence by firearm,Number,2017,13.515998266658466,14.48768140392334,12.545428864911566
+Deaths,Syrian Arab Republic,Both,All ages,Unintentional firearm injuries,Number,2017,16.90588337268822,27.485513728597176,9.186782747975212
+Deaths,Australia,Both,All ages,Unintentional firearm injuries,Number,2017,9.871860666655543,16.716338176537505,8.307454722804517
+Deaths,Burkina Faso,Both,All ages,Self-harm by firearm,Number,2017,114.87392735313313,186.31890914509927,74.44358754407686
+Deaths,Burkina Faso,Both,All ages,Physical violence by firearm,Number,2017,604.7638343444123,810.6072478815333,430.60975262810274
+Deaths,Paraguay,Both,All ages,Unintentional firearm injuries,Number,2017,25.47187296894083,41.96620652431869,17.96459928180245
+Deaths,Barbados,Both,All ages,Physical violence by firearm,Number,2017,11.957616797584576,14.136287986724463,10.082309818651957
+Deaths,Paraguay,Both,All ages,Self-harm by firearm,Number,2017,83.91737445801515,108.38803245386246,51.84407340209841
+Deaths,Senegal,Both,All ages,Self-harm by firearm,Number,2017,83.84690382338101,132.1546804803158,50.92718636771156
+Deaths,Senegal,Both,All ages,Physical violence by firearm,Number,2017,62.69028277502085,90.15187579547714,39.547489171391106
+Deaths,Sierra Leone,Both,All ages,Unintentional firearm injuries,Number,2017,75.3098602450069,141.95474347090124,37.02953970771893
+Deaths,New Zealand,Both,All ages,Unintentional firearm injuries,Number,2017,2.577883496830657,3.640526991208353,2.169383843608167
+Deaths,Syrian Arab Republic,Both,All ages,Self-harm by firearm,Number,2017,16.05265504374099,24.400897461654992,9.551665054311455
+Deaths,Burkina Faso,Both,All ages,Unintentional firearm injuries,Number,2017,185.35972600438774,320.7463654468067,113.1579096631693
+Deaths,Slovenia,Both,All ages,Self-harm by firearm,Number,2017,34.65458895192074,45.454246250774155,22.849248295128255
+Deaths,Slovenia,Both,All ages,Physical violence by firearm,Number,2017,3.8727192911102546,4.511160680483872,3.2963210820306643
+Deaths,Ecuador,Both,All ages,Self-harm by firearm,Number,2017,84.3406324504625,127.30689792597558,49.085939613411256
+Deaths,Ecuador,Both,All ages,Physical violence by firearm,Number,2017,925.216275648141,1107.0394571996128,757.3276281298963
+Deaths,Brazil,Both,All ages,Unintentional firearm injuries,Number,2017,692.6508043280169,751.8381124447142,477.22899070162765
+Deaths,Luxembourg,Both,All ages,Self-harm by firearm,Number,2017,6.2118819578506645,7.572573082140435,4.073721449433396
+Deaths,Luxembourg,Both,All ages,Physical violence by firearm,Number,2017,1.3591086273712,1.5212136948650032,1.2048183131251604
+Deaths,Bolivia (Plurinational State of),Both,All ages,Unintentional firearm injuries,Number,2017,102.42555472828244,154.8233731936893,63.58920940823316
+Deaths,Norway,Both,All ages,Unintentional firearm injuries,Number,2017,1.3550007802974482,2.1292294407080363,1.197021511800862
+Deaths,Albania,Both,All ages,Unintentional firearm injuries,Number,2017,3.8434252478206528,9.638865039921779,2.063877053364881
+Deaths,Albania,Both,All ages,Self-harm by firearm,Number,2017,27.230516642277,37.873852074387706,15.64027334417345
+Deaths,Brazil,Both,All ages,Self-harm by firearm,Number,2017,1278.7479605525436,1746.1938844384142,1120.7370673479707
+Deaths,Brazil,Both,All ages,Physical violence by firearm,Number,2017,50888.613629687665,52310.01858906808,49447.00400538983
+Deaths,Belgium,Both,All ages,Unintentional firearm injuries,Number,2017,6.766803618459504,7.9843814223968215,4.779524391042202
+Deaths,Cameroon,Both,All ages,Self-harm by firearm,Number,2017,147.61783267407037,225.61559176202672,78.46740604531867
+Deaths,Cameroon,Both,All ages,Physical violence by firearm,Number,2017,310.658401109211,429.0895008775209,210.09462686251607
+Deaths,Albania,Both,All ages,Physical violence by firearm,Number,2017,41.83008828985015,56.28945027163384,30.430561653546654
+Deaths,Bahamas,Both,All ages,Unintentional firearm injuries,Number,2017,0.4247934036186553,0.5861806433782046,0.3058653304110513
+Deaths,Bahrain,Both,All ages,Unintentional firearm injuries,Number,2017,1.9460908975843394,2.9069092463992603,0.697266784110243
+Deaths,Bahrain,Both,All ages,Self-harm by firearm,Number,2017,1.4294483352835607,2.380207705864664,0.7056012777885177
+Deaths,Norway,Both,All ages,Self-harm by firearm,Number,2017,72.70380814304293,108.51151363174787,64.42025806277276
+Deaths,Solomon Islands,Both,All ages,Self-harm by firearm,Number,2017,11.606734864176984,23.188949287721265,3.450320503940444
+Deaths,Solomon Islands,Both,All ages,Physical violence by firearm,Number,2017,10.608930087574452,14.58405064985766,7.510841513255614
+Deaths,Somalia,Both,All ages,Unintentional firearm injuries,Number,2017,376.98790336029623,751.6864637354361,148.7001562846701
+Deaths,Bahamas,Both,All ages,Self-harm by firearm,Number,2017,0.7771322247026499,1.0309735925614814,0.6022882782863649
+Deaths,Bahamas,Both,All ages,Physical violence by firearm,Number,2017,85.53187353095589,102.72888875591626,71.64174692996502
+Deaths,Malta,Both,All ages,Unintentional firearm injuries,Number,2017,0.6729836163195086,0.7953309452196597,0.398629879227546
+Deaths,Sao Tome and Principe,Both,All ages,Unintentional firearm injuries,Number,2017,0.9213800479317437,1.8432220435544804,0.4775890407593901
+Deaths,Saudi Arabia,Both,All ages,Unintentional firearm injuries,Number,2017,349.7460629559121,575.2421962057651,182.77683658216768
+Deaths,Sudan,Both,All ages,Unintentional firearm injuries,Number,2017,137.86092893813304,291.6231513656171,45.87962262266693
+Deaths,Saudi Arabia,Both,All ages,Self-harm by firearm,Number,2017,101.54068202426554,152.58687140892474,49.61736124963983
+Deaths,Saudi Arabia,Both,All ages,Physical violence by firearm,Number,2017,82.18351373026395,163.26344408343945,51.7582387452727
+Deaths,Portugal,Both,All ages,Self-harm by firearm,Number,2017,155.66098478812063,226.4324597215491,132.15421689480357
+Deaths,Portugal,Both,All ages,Physical violence by firearm,Number,2017,44.022200316613144,47.41523375056016,41.009654503103825
+Deaths,Mozambique,Both,All ages,Self-harm by firearm,Number,2017,178.35551307491815,261.7346482190901,86.50982838664416
+Deaths,Mozambique,Both,All ages,Physical violence by firearm,Number,2017,562.7396022928448,777.052634856228,381.91472651513845
+Deaths,Papua New Guinea,Both,All ages,Self-harm by firearm,Number,2017,16.7665422953328,29.80316849075116,9.247891392458556
+Deaths,Papua New Guinea,Both,All ages,Physical violence by firearm,Number,2017,92.29416150118246,133.27963767883114,26.539372620349397
+Deaths,Tunisia,Both,All ages,Self-harm by firearm,Number,2017,18.55548410807103,31.78525477378639,10.886116603964714
+Deaths,Tunisia,Both,All ages,Physical violence by firearm,Number,2017,24.880274389134797,42.97412546811573,15.971537930415261
+Deaths,Sudan,Both,All ages,Self-harm by firearm,Number,2017,109.36891091021688,181.9617097072638,53.988453325584835
+Deaths,Bahrain,Both,All ages,Physical violence by firearm,Number,2017,6.49471684376931,9.479669247014709,4.3692677883417765
+Deaths,Belize,Both,All ages,Unintentional firearm injuries,Number,2017,11.790471152381285,13.429443974232907,10.34194702753858
+Deaths,Angola,Both,All ages,Unintentional firearm injuries,Number,2017,142.58661426444777,215.84105689250708,90.99194012933275
+Deaths,Saint Kitts and Nevis,Both,All ages,Unintentional firearm injuries,Number,2017,2.4012526688284574,3.073225775130683,1.6081865106296593
+Deaths,Uzbekistan,Both,All ages,Self-harm by firearm,Number,2017,17.475222857203,27.319616368970085,14.14666997102734
+Deaths,Andorra,Both,All ages,Unintentional firearm injuries,Number,2017,0.017734462718086205,0.04338840086020511,0.007222896150427903
+Deaths,Chad,Both,All ages,Unintentional firearm injuries,Number,2017,155.73798340809518,270.7520014865627,83.41410203574286
+Deaths,Uzbekistan,Both,All ages,Physical violence by firearm,Number,2017,25.023057318887243,28.509560866391897,21.91181801668902
+Deaths,Cuba,Both,All ages,Self-harm by firearm,Number,2017,28.447316001916448,33.6621679193091,22.14032766226041
+Deaths,Nauru,Both,All ages,Unintentional firearm injuries,Number,2017,0.022260950771649447,0.038060104092314875,0.010460057874093045
+Deaths,Maldives,Both,All ages,Unintentional firearm injuries,Number,2017,0.18092020130732756,0.27552895926365584,0.10173807814923873
+Deaths,Maldives,Both,All ages,Self-harm by firearm,Number,2017,0.44098962528835417,0.6736814722690647,0.24715827279654567
+Deaths,Maldives,Both,All ages,Physical violence by firearm,Number,2017,0.8465575047482357,1.1645728236754387,0.590902072571557
+Deaths,Equatorial Guinea,Both,All ages,Self-harm by firearm,Number,2017,3.191649984392786,5.698226050438736,1.5713924700664175
+Deaths,Lao People's Democratic Republic,Both,All ages,Self-harm by firearm,Number,2017,9.054179436253033,19.859527273721806,5.174817037815288
+Deaths,Chad,Both,All ages,Self-harm by firearm,Number,2017,76.56213544859261,126.35115471746695,43.94803108336989
+Deaths,Cuba,Both,All ages,Physical violence by firearm,Number,2017,31.121174673247936,34.635998945302156,27.699599476810896
+Deaths,Russian Federation,Both,All ages,Self-harm by firearm,Number,2017,1152.3014700205642,1588.7296720266072,929.4817386911774
+Deaths,Russian Federation,Both,All ages,Physical violence by firearm,Number,2017,977.6373302927651,1006.2510768121573,939.9101695495119
+Deaths,Nauru,Both,All ages,Self-harm by firearm,Number,2017,0.1320759592517221,0.268518647164035,0.03526925882860482
+Deaths,Nauru,Both,All ages,Physical violence by firearm,Number,2017,0.12079477473919013,0.2343529739320957,0.06984608730994489
+Deaths,Lao People's Democratic Republic,Both,All ages,Physical violence by firearm,Number,2017,177.97782290507197,287.4096756510926,102.67919280576281
+Deaths,Cameroon,Both,All ages,Unintentional firearm injuries,Number,2017,151.4810498253145,253.67534347894772,77.16217670573629
+Deaths,Estonia,Both,All ages,Self-harm by firearm,Number,2017,12.633384724311238,16.342510221287867,7.164304020217257
+Deaths,Estonia,Both,All ages,Physical violence by firearm,Number,2017,3.4383558276099473,4.045928903900454,2.9286047267336106
+Deaths,Equatorial Guinea,Both,All ages,Physical violence by firearm,Number,2017,8.107614817672482,17.141850525594094,3.650066060716416
+Deaths,Tonga,Both,All ages,Unintentional firearm injuries,Number,2017,0.06436578548528106,0.10653183112520445,0.034781690635642785
+Deaths,Togo,Both,All ages,Self-harm by firearm,Number,2017,42.802521706773014,65.5243879874613,24.336164553767308
+Deaths,Togo,Both,All ages,Physical violence by firearm,Number,2017,171.02958702350438,248.582818522066,114.12911713202054
+Deaths,Spain,Both,All ages,Unintentional firearm injuries,Number,2017,27.56357373143797,33.599684880878115,20.9090894008832
+Deaths,Sierra Leone,Both,All ages,Self-harm by firearm,Number,2017,35.90108444094425,62.8771030037383,19.521059358733968
+Deaths,Sierra Leone,Both,All ages,Physical violence by firearm,Number,2017,39.79914919529188,58.80669942326849,25.856663269496654
+Deaths,Denmark,Both,All ages,Self-harm by firearm,Number,2017,55.831982070859866,68.03067345065362,41.191897259904586
+Deaths,Denmark,Both,All ages,Physical violence by firearm,Number,2017,7.982615239712191,8.872441692091973,7.277081216587856
+Deaths,United Republic of Tanzania,Both,All ages,Self-harm by firearm,Number,2017,192.81014629553735,312.1372202893684,112.74715530851245
+Deaths,United Republic of Tanzania,Both,All ages,Physical violence by firearm,Number,2017,1119.2709736814686,1550.6461383511391,796.8822406807175
+Deaths,Algeria,Both,All ages,Unintentional firearm injuries,Number,2017,49.81678552547069,124.78885512440647,23.559353163070167
+Deaths,Vanuatu,Both,All ages,Self-harm by firearm,Number,2017,3.0090834124662935,4.912278335744372,1.2503288628033373
+Deaths,Vanuatu,Both,All ages,Physical violence by firearm,Number,2017,0.46143565257184305,0.7571270720937535,0.26927467726444476
+Deaths,Congo,Both,All ages,Self-harm by firearm,Number,2017,21.307985651064683,32.287469665900765,12.66967798354968
+Deaths,Congo,Both,All ages,Physical violence by firearm,Number,2017,41.3814810280976,81.11130496098741,23.066990908125288
+Deaths,Malaysia,Both,All ages,Unintentional firearm injuries,Number,2017,15.050610528853944,22.110141600575425,7.6498825443359255
+Deaths,Ukraine,Both,All ages,Unintentional firearm injuries,Number,2017,114.36707971018608,157.06245971203958,89.08797034604817
+Deaths,Bosnia and Herzegovina,Both,All ages,Physical violence by firearm,Number,2017,9.198086560050895,12.882979917367226,7.113011536153807
+Deaths,Democratic Republic of the Congo,Both,All ages,Unintentional firearm injuries,Number,2017,554.9839820211025,1195.679596389994,296.320098870172
+Deaths,Grenada,Both,All ages,Self-harm by firearm,Number,2017,0.039634596584130696,0.047042298277300665,0.027696159865129827
+Deaths,Grenada,Both,All ages,Physical violence by firearm,Number,2017,1.0771800517064,1.2337438119860427,0.9239923055909293
+Deaths,Belarus,Both,All ages,Unintentional firearm injuries,Number,2017,9.903010754292481,17.11429640637583,6.478608303781604
+Deaths,Uzbekistan,Both,All ages,Unintentional firearm injuries,Number,2017,12.324815074095213,15.121086631095963,9.323285561417915
+Deaths,Bolivia (Plurinational State of),Both,All ages,Self-harm by firearm,Number,2017,46.04032505417738,68.20296559834901,23.850816069770033
+Deaths,Bolivia (Plurinational State of),Both,All ages,Physical violence by firearm,Number,2017,307.62828439115447,422.18981452597484,194.53679949900382
+Deaths,Lao People's Democratic Republic,Both,All ages,Unintentional firearm injuries,Number,2017,9.053294738861617,20.82286203569257,3.6474968353969452
+Deaths,Netherlands,Both,All ages,Unintentional firearm injuries,Number,2017,2.7396987081027997,4.188070269134199,2.3610590141951464
+Deaths,Congo,Both,All ages,Unintentional firearm injuries,Number,2017,23.285692136637685,41.64188973921314,12.51304707548877
+Deaths,Iraq,Both,All ages,Self-harm by firearm,Number,2017,427.9536606451192,647.736104018015,274.8283168333463
+Deaths,Iraq,Both,All ages,Physical violence by firearm,Number,2017,2743.452007959853,3653.1312630237117,1983.0490986419052
+Deaths,Norway,Both,All ages,Physical violence by firearm,Number,2017,2.3175592686375444,2.4221476804948754,2.209858772444301
+Deaths,Croatia,Both,All ages,Self-harm by firearm,Number,2017,83.34605679882263,101.89191722453755,57.19667445866147
+Deaths,Croatia,Both,All ages,Physical violence by firearm,Number,2017,14.456076745684427,16.639503560299172,12.46948714073482
+Deaths,Netherlands,Both,All ages,Self-harm by firearm,Number,2017,44.670702988177325,66.16916810128727,37.60348233097802
+Deaths,Netherlands,Both,All ages,Physical violence by firearm,Number,2017,37.322463175356845,40.314568094467965,34.69716844197603
+Deaths,Uganda,Both,All ages,Unintentional firearm injuries,Number,2017,203.8959280016382,323.09917615080434,122.56297685396727
+Deaths,Côte d'Ivoire,Both,All ages,Self-harm by firearm,Number,2017,155.98336659382355,269.33034269903527,85.51880064672636
+Deaths,United Arab Emirates,Both,All ages,Unintentional firearm injuries,Number,2017,14.465053876746913,58.025401528841854,3.0339134834313883
+Deaths,Côte d'Ivoire,Both,All ages,Physical violence by firearm,Number,2017,692.4955679528435,995.8761871483011,459.0631434869396
+Deaths,Colombia,Both,All ages,Self-harm by firearm,Number,2017,473.2692844258156,684.5314673199794,372.22826745103043
+Deaths,Colombia,Both,All ages,Physical violence by firearm,Number,2017,12325.098197677708,14322.109124289562,10602.099168355495
+Deaths,Cyprus,Both,All ages,Unintentional firearm injuries,Number,2017,0.8292917799797801,1.2020265283448046,0.5680882766620963
+Deaths,Cyprus,Both,All ages,Self-harm by firearm,Number,2017,9.864503083283491,12.401735395792958,3.7439481251681928
+Deaths,Republic of Moldova,Both,All ages,Unintentional firearm injuries,Number,2017,3.248390307672475,3.925067038040111,1.8726401469284857
+Deaths,Turkey,Both,All ages,Unintentional firearm injuries,Number,2017,721.3609196213853,954.091163517276,369.5563086901958
+Deaths,Bulgaria,Both,All ages,Unintentional firearm injuries,Number,2017,16.931375412824952,22.63445609963821,9.785737379334735
+Deaths,Cyprus,Both,All ages,Physical violence by firearm,Number,2017,8.248548911395218,10.002779003582319,6.9429075134674925
+Deaths,United Arab Emirates,Both,All ages,Self-harm by firearm,Number,2017,36.06412025672878,75.49631564001858,15.21252301854054
+Deaths,United Arab Emirates,Both,All ages,Physical violence by firearm,Number,2017,42.34660028527911,83.91710074475098,17.102889504473538
+Deaths,Finland,Both,All ages,Unintentional firearm injuries,Number,2017,1.9639447742239882,2.5199748643124855,1.5749715678006786
+Deaths,Rwanda,Both,All ages,Unintentional firearm injuries,Number,2017,68.53496114694411,103.32326795662661,43.061728651472464
+Deaths,Peru,Both,All ages,Unintentional firearm injuries,Number,2017,326.67932698259875,457.7358336057686,202.74557449383568
+Deaths,Guyana,Both,All ages,Unintentional firearm injuries,Number,2017,4.9484518889793545,6.444943151097053,3.6259682537640807
+Deaths,Niue,Both,All ages,Unintentional firearm injuries,Number,2017,0.0021688695580386872,0.004594322558548822,0.000923838413438701
+Deaths,Egypt,Both,All ages,Self-harm by firearm,Number,2017,180.33343912319233,356.38652234358227,90.28353675892711
+Deaths,Czechia,Both,All ages,Unintentional firearm injuries,Number,2017,9.119502810729198,11.172887263348747,6.8509633253627085
+Deaths,Armenia,Both,All ages,Self-harm by firearm,Number,2017,14.993910272843888,18.595701036788665,11.72408347932403
+Deaths,Armenia,Both,All ages,Physical violence by firearm,Number,2017,20.285959169458344,22.715147919208018,18.107740960745296
+Deaths,Republic of Moldova,Both,All ages,Self-harm by firearm,Number,2017,9.693349793237159,13.185653054958747,7.482348644243446
+Deaths,Gambia,Both,All ages,Unintentional firearm injuries,Number,2017,15.44143229437033,27.430880076722925,8.061353709427628
+Deaths,Andorra,Both,All ages,Self-harm by firearm,Number,2017,0.48231450927330455,1.745255911087843,0.1788668217908305
+Deaths,Dominican Republic,Both,All ages,Unintentional firearm injuries,Number,2017,153.7587648093021,228.5336276946586,94.20871141539479
+Deaths,Dominican Republic,Both,All ages,Self-harm by firearm,Number,2017,104.19706819548335,187.08258996977372,57.88966223208904
+Deaths,Peru,Both,All ages,Self-harm by firearm,Number,2017,40.66826334819044,61.10847234311473,22.635404035321837
+Deaths,Peru,Both,All ages,Physical violence by firearm,Number,2017,512.7341464902389,708.124981731216,351.8745763773081
+Deaths,Egypt,Both,All ages,Physical violence by firearm,Number,2017,373.73301628422325,510.08769847356496,267.1649908111199
+Deaths,Ghana,Both,All ages,Self-harm by firearm,Number,2017,96.30474739174396,153.76105631697538,60.892202510765415
+Deaths,Ghana,Both,All ages,Physical violence by firearm,Number,2017,240.98447522348488,331.29236584356875,166.6851369158074
+Deaths,Zambia,Both,All ages,Unintentional firearm injuries,Number,2017,112.73472121119657,151.24063091752527,76.34348290251641
+Deaths,Costa Rica,Both,All ages,Unintentional firearm injuries,Number,2017,5.662804498588433,7.170212613474883,4.235776721536271
+Deaths,Latvia,Both,All ages,Unintentional firearm injuries,Number,2017,1.6833953134474307,2.304700275258912,1.158473169920421
+Deaths,Democratic Republic of the Congo,Both,All ages,Self-harm by firearm,Number,2017,376.17443201062804,609.6202708559264,232.29709910157305
+Deaths,Ecuador,Both,All ages,Unintentional firearm injuries,Number,2017,46.39668987611764,95.47208136839137,32.96544837638333
+Deaths,Sweden,Both,All ages,Self-harm by firearm,Number,2017,127.85499102868629,166.4021349778019,100.53463287538746
+Deaths,Sweden,Both,All ages,Physical violence by firearm,Number,2017,31.575781730808128,34.107045496445416,29.313974998720507
+Deaths,Zambia,Both,All ages,Self-harm by firearm,Number,2017,88.14757736182753,131.87621050309772,47.14288129559062
+Deaths,Zambia,Both,All ages,Physical violence by firearm,Number,2017,507.8761852684415,676.9797526580858,360.5791036414921
+Deaths,El Salvador,Both,All ages,Unintentional firearm injuries,Number,2017,2.9686198396941132,7.3941019675769954,1.7638947266557394
+Deaths,Myanmar,Both,All ages,Physical violence by firearm,Number,2017,228.11866480481993,350.15096323037085,152.71226931250183
+Deaths,Algeria,Both,All ages,Self-harm by firearm,Number,2017,69.01001646331672,117.97721044084082,37.52514627927339
+Deaths,Andorra,Both,All ages,Physical violence by firearm,Number,2017,0.07563919266480147,0.10726330346731905,0.04689988844914139
+Deaths,Togo,Both,All ages,Unintentional firearm injuries,Number,2017,50.414345699556485,85.57017695526655,29.24451093437507
+Deaths,Malaysia,Both,All ages,Self-harm by firearm,Number,2017,39.96466760006785,58.513335922238745,19.19451684611655
+Deaths,Malaysia,Both,All ages,Physical violence by firearm,Number,2017,123.76228895873881,175.42328571771796,89.25046655396652
+Deaths,Burundi,Both,All ages,Self-harm by firearm,Number,2017,55.16129775646186,104.87592700793297,29.853171939318187
+Deaths,Burundi,Both,All ages,Physical violence by firearm,Number,2017,28.26533678892842,46.646971148233376,15.494416778386157
+Deaths,Azerbaijan,Both,All ages,Unintentional firearm injuries,Number,2017,16.45743792535731,25.77717582785525,7.79510120799143
+Deaths,Tuvalu,Both,All ages,Unintentional firearm injuries,Number,2017,0.03234956582336295,0.0655141199050763,0.012531498647071915
+Deaths,Tuvalu,Both,All ages,Self-harm by firearm,Number,2017,0.0980141380507414,0.16766373016163452,0.04356740062400459
+Deaths,El Salvador,Both,All ages,Self-harm by firearm,Number,2017,9.84853985249871,18.668685473158575,6.222872883452283
+Deaths,El Salvador,Both,All ages,Physical violence by firearm,Number,2017,2380.00137679846,3013.890263389061,1834.630674427754
+Deaths,Portugal,Both,All ages,Unintentional firearm injuries,Number,2017,7.656654023218667,11.604954916087417,6.63887168557952
+Deaths,Democratic Republic of the Congo,Both,All ages,Physical violence by firearm,Number,2017,384.49960784842995,672.1902677793047,240.96309035871926
+Deaths,Palau,Both,All ages,Self-harm by firearm,Number,2017,0.1536979685900086,0.22661440978899655,0.0810850071071657
+Deaths,Palau,Both,All ages,Physical violence by firearm,Number,2017,0.15681739249907573,0.22339714754535547,0.10514236798128437
+Deaths,American Samoa,Both,All ages,Unintentional firearm injuries,Number,2017,0.08799359907163574,0.21579951861153915,0.051396523849923395
+Deaths,Brunei Darussalam,Both,All ages,Unintentional firearm injuries,Number,2017,0.05639088983769872,0.07820539188475058,0.03401643411661158
+Deaths,Algeria,Both,All ages,Physical violence by firearm,Number,2017,138.304276962476,204.59818621833588,96.71456314758271
+Deaths,Northern Mariana Islands,Both,All ages,Self-harm by firearm,Number,2017,0.5257954422871373,0.7599490839852668,0.2778708541191913
+Deaths,Northern Mariana Islands,Both,All ages,Physical violence by firearm,Number,2017,0.43929618123048686,0.6178576744551502,0.29832176963466156
+Deaths,Botswana,Both,All ages,Unintentional firearm injuries,Number,2017,11.75889036224886,27.13387509641285,4.086646484437409
+Deaths,Tuvalu,Both,All ages,Physical violence by firearm,Number,2017,0.12873785212710537,0.19817111078780358,0.078130746125288
+Deaths,American Samoa,Both,All ages,Self-harm by firearm,Number,2017,0.3226953443820544,0.5076986074313722,0.18990226236310975
+Deaths,North Macedonia,Both,All ages,Self-harm by firearm,Number,2017,19.69134070067057,27.055187257883816,9.695858118702738
+Deaths,North Macedonia,Both,All ages,Physical violence by firearm,Number,2017,24.935003062397165,29.769161663535392,20.517961883125054
+Deaths,Sri Lanka,Both,All ages,Self-harm by firearm,Number,2017,16.900238622867235,30.754603448842452,10.752061077501105
+Deaths,Sri Lanka,Both,All ages,Physical violence by firearm,Number,2017,208.30023495719695,286.51579781753884,145.86341953851277
+Deaths,Sudan,Both,All ages,Physical violence by firearm,Number,2017,407.6107949565013,528.7655358665679,307.1021946611853
+Deaths,Guinea,Both,All ages,Physical violence by firearm,Number,2017,271.3890367897825,386.45068730157357,187.56131906439876
+Deaths,Belize,Both,All ages,Self-harm by firearm,Number,2017,2.863732669919556,3.753065211933933,2.3381215815153005
+Deaths,Belize,Both,All ages,Physical violence by firearm,Number,2017,65.20292635041204,71.37530687216756,59.338355592385724
+Deaths,Syrian Arab Republic,Both,All ages,Physical violence by firearm,Number,2017,154.5104782072069,212.8757260025655,112.80288806794735
+Deaths,Solomon Islands,Both,All ages,Unintentional firearm injuries,Number,2017,3.7063252315054482,6.48853030141174,1.6387042518164592
+Deaths,United Kingdom,Both,All ages,Unintentional firearm injuries,Number,2017,17.11661794656352,23.432165530588957,15.454941679232427
+Deaths,Cabo Verde,Both,All ages,Unintentional firearm injuries,Number,2017,1.964866288777027,2.912827938348,1.2074769655969924
+Deaths,Chad,Both,All ages,Physical violence by firearm,Number,2017,330.83159048863973,467.0589465806364,223.82813791800658
+Deaths,Seychelles,Both,All ages,Unintentional firearm injuries,Number,2017,0.045969180923881275,0.11528760732976336,0.01618885517705084
+Deaths,Montenegro,Both,All ages,Unintentional firearm injuries,Number,2017,0.43287214072878866,0.8154335204454459,0.26312354398833504
+Deaths,France,Both,All ages,Self-harm by firearm,Number,2017,1780.3458545017625,2119.048795941664,1334.810543298815
+Deaths,Iran (Islamic Republic of),Both,All ages,Unintentional firearm injuries,Number,2017,102.71328165912728,146.852495206744,39.77933981898167
+Deaths,Hungary,Both,All ages,Unintentional firearm injuries,Number,2017,2.6701121116117674,3.323347575557527,2.1310734178200343
+Deaths,Hungary,Both,All ages,Self-harm by firearm,Number,2017,53.11001634340795,61.63406930468173,29.46314585781579
+Deaths,France,Both,All ages,Physical violence by firearm,Number,2017,217.36500581666564,236.38856492726632,202.84835430543677
+Deaths,Hungary,Both,All ages,Physical violence by firearm,Number,2017,6.117014515931781,6.51635184073728,5.731295599355675
+Deaths,Guatemala,Both,All ages,Physical violence by firearm,Number,2017,4407.778012912997,5157.42359210277,3765.4152913702032
+Deaths,Haiti,Both,All ages,Unintentional firearm injuries,Number,2017,636.3156444107352,1514.1019105691246,196.85133914693685
+Deaths,Comoros,Both,All ages,Unintentional firearm injuries,Number,2017,6.308548286849715,10.14061682938129,3.723065266056309
+Deaths,Guinea-Bissau,Both,All ages,Unintentional firearm injuries,Number,2017,19.277774694592427,30.659938456685694,11.746837348025768
+Deaths,Philippines,Both,All ages,Unintentional firearm injuries,Number,2017,135.95268595954758,182.03232192304569,55.91422168361345
+Deaths,Yemen,Both,All ages,Physical violence by firearm,Number,2017,455.2003292967299,606.6358628418598,362.2858463210723
+Deaths,Honduras,Both,All ages,Unintentional firearm injuries,Number,2017,77.16688327151167,122.59583952628631,39.030325304834335
+Deaths,Greece,Both,All ages,Unintentional firearm injuries,Number,2017,10.014649412256983,12.80317064735807,7.657848040735299
+Deaths,Argentina,Both,All ages,Unintentional firearm injuries,Number,2017,398.64186748106454,450.37961749232113,363.3443979856587
+Deaths,Djibouti,Both,All ages,Unintentional firearm injuries,Number,2017,8.279890290361207,15.197895985865877,4.226398768062149
+Deaths,Djibouti,Both,All ages,Self-harm by firearm,Number,2017,4.4164769844288285,8.201286926586175,2.1209486179616897
+Deaths,Greece,Both,All ages,Self-harm by firearm,Number,2017,97.06513282273087,128.21777658021216,82.97453052068147
+Deaths,Austria,Both,All ages,Unintentional firearm injuries,Number,2017,3.861454647880389,4.6360994345593936,2.339194572289911
+Deaths,Somalia,Both,All ages,Self-harm by firearm,Number,2017,120.02806357976374,256.27396216676374,58.643377772027435
+Deaths,Somalia,Both,All ages,Physical violence by firearm,Number,2017,718.2592387181676,1265.4987035520703,381.64441037200885
+Deaths,Cabo Verde,Both,All ages,Self-harm by firearm,Number,2017,5.4975887889719015,7.632686404888652,2.8720070260583457
+Deaths,Cabo Verde,Both,All ages,Physical violence by firearm,Number,2017,37.49873290860028,50.52223461368641,28.820459113993834
+Deaths,Seychelles,Both,All ages,Self-harm by firearm,Number,2017,0.16170649506923238,0.33960595638182517,0.09207877305214555
+Deaths,Seychelles,Both,All ages,Physical violence by firearm,Number,2017,1.9210121054182094,3.1233894522909527,1.3125450581346256
+Deaths,San Marino,Both,All ages,Self-harm by firearm,Number,2017,1.3283979308822491,2.085834435103466,0.8107906124446644
+Deaths,Lithuania,Both,All ages,Unintentional firearm injuries,Number,2017,2.366669895552792,3.4200597682055456,1.9262730162065724
+Deaths,Chile,Both,All ages,Unintentional firearm injuries,Number,2017,39.964538233225376,46.341495388114794,24.152131712705046
+Deaths,San Marino,Both,All ages,Physical violence by firearm,Number,2017,0.027801826623553533,0.04282235792823713,0.017431959111870655
+Deaths,Cuba,Both,All ages,Unintentional firearm injuries,Number,2017,19.333050206962646,25.974053260876957,15.66638850088452
+Deaths,Tunisia,Both,All ages,Unintentional firearm injuries,Number,2017,38.23995541613092,86.62717980013372,13.206018036703995
+Deaths,Lithuania,Both,All ages,Self-harm by firearm,Number,2017,20.41275943183349,25.255041699164828,13.582297063919086
+Deaths,Lithuania,Both,All ages,Physical violence by firearm,Number,2017,9.361596880470206,10.003685395283933,8.717463867238985
+Deaths,Palau,Both,All ages,Unintentional firearm injuries,Number,2017,0.03650945554534318,0.05751901894614759,0.020093014985196726
+Deaths,Bosnia and Herzegovina,Both,All ages,Unintentional firearm injuries,Number,2017,2.53976229447644,3.510497426601474,1.1673214104633234
+Deaths,Bosnia and Herzegovina,Both,All ages,Self-harm by firearm,Number,2017,26.80538510624722,34.833120788182185,10.722337724028185
+Deaths,Belgium,Both,All ages,Self-harm by firearm,Number,2017,183.18766881403272,230.0398218038853,143.34463781947684
+Deaths,Belgium,Both,All ages,Physical violence by firearm,Number,2017,39.497354497492154,42.49342785987809,36.851148242433325
+Deaths,Kuwait,Both,All ages,Unintentional firearm injuries,Number,2017,0.4966321259836851,0.6203344300472375,0.39602857567230115
+Deaths,Equatorial Guinea,Both,All ages,Unintentional firearm injuries,Number,2017,2.69011853642764,6.055584593256095,0.9591739084886031
+Deaths,Colombia,Both,All ages,Unintentional firearm injuries,Number,2017,99.02676693974311,157.40114839504923,77.65515475449439
+Deaths,Bangladesh,Both,All ages,Unintentional firearm injuries,Number,2017,105.32728340248114,189.79155521932748,47.88644510460932
+Deaths,Bangladesh,Both,All ages,Self-harm by firearm,Number,2017,231.08065782156663,421.09369517356197,132.666082490983
+Deaths,Tokelau,Both,All ages,Unintentional firearm injuries,Number,2017,0.0015113829367661184,0.00292444093785846,0.0006856659006433244
+Deaths,Myanmar,Both,All ages,Unintentional firearm injuries,Number,2017,117.57183852992192,262.1179016877139,50.90613404654467
+Deaths,Egypt,Both,All ages,Unintentional firearm injuries,Number,2017,277.5910786990831,464.98532968266517,88.03663008015278
+Deaths,Myanmar,Both,All ages,Self-harm by firearm,Number,2017,50.36985180862729,95.67420153237276,28.446058383510508
+Deaths,Gabon,Both,All ages,Unintentional firearm injuries,Number,2017,6.403420369895709,13.342130181165109,2.81717245523267
+Deaths,Dominican Republic,Both,All ages,Physical violence by firearm,Number,2017,1384.8662897045556,1810.6214416432708,1028.0967222533704
+Deaths,Saint Kitts and Nevis,Both,All ages,Self-harm by firearm,Number,2017,0.0424354536195416,0.05797909442338064,0.028012894317452713
+Deaths,Saint Kitts and Nevis,Both,All ages,Physical violence by firearm,Number,2017,10.339359924575627,13.136210695624452,6.642689668307774
+Deaths,Spain,Both,All ages,Self-harm by firearm,Number,2017,206.58047299698939,274.9611274016903,155.72759526432563
+Deaths,Gabon,Both,All ages,Self-harm by firearm,Number,2017,8.350981824792383,15.331903179002596,3.924669985221122
+Deaths,Gabon,Both,All ages,Physical violence by firearm,Number,2017,13.421148577892328,27.960514834912882,6.681513386526422
+Deaths,Spain,Both,All ages,Physical violence by firearm,Number,2017,65.60455545876827,70.06267291912053,61.098334089364826
+Deaths,Ukraine,Both,All ages,Self-harm by firearm,Number,2017,568.7291261161669,713.1273074257595,439.9832821762063
+Deaths,Ukraine,Both,All ages,Physical violence by firearm,Number,2017,301.2289484254657,345.2165953073392,250.73426035968734
+Deaths,Czechia,Both,All ages,Self-harm by firearm,Number,2017,152.57701378713617,175.97880956150382,101.92014655599017
+Deaths,Czechia,Both,All ages,Physical violence by firearm,Number,2017,14.027517747275262,15.065030777356323,13.033842503034098
+Deaths,Guatemala,Both,All ages,Unintentional firearm injuries,Number,2017,863.37256329348,1042.3247260963008,543.7222982202516
+Deaths,Grenada,Both,All ages,Unintentional firearm injuries,Number,2017,1.4969180716498909,1.7799437126903292,1.2512774725647278
+Deaths,Gambia,Both,All ages,Self-harm by firearm,Number,2017,9.663272961259484,16.934354450357063,4.855146194975952
+Deaths,Gambia,Both,All ages,Physical violence by firearm,Number,2017,4.406588560026578,5.98256714780615,2.6799902926042902
+Deaths,Guatemala,Both,All ages,Self-harm by firearm,Number,2017,56.546389130725714,71.99562174043459,35.01427329738785
+Deaths,San Marino,Both,All ages,Unintentional firearm injuries,Number,2017,0.014450031244905131,0.02227572901556814,0.008337466391106895
+Deaths,Barbados,Both,All ages,Unintentional firearm injuries,Number,2017,2.087724319928505,2.5208297939037787,1.680848986697975
+Deaths,Tonga,Both,All ages,Self-harm by firearm,Number,2017,0.19037514104028008,0.3664263879380868,0.08778649624104999
+Deaths,Tonga,Both,All ages,Physical violence by firearm,Number,2017,0.21369179136924707,0.32268764529213606,0.12559021771131135
+Deaths,Republic of Moldova,Both,All ages,Physical violence by firearm,Number,2017,10.160178855848573,10.971106974246137,9.43674717924698
+Deaths,Côte d'Ivoire,Both,All ages,Unintentional firearm injuries,Number,2017,160.27925969715224,256.5677205397123,79.5213509435137
+Deaths,Azerbaijan,Both,All ages,Self-harm by firearm,Number,2017,9.35356379139027,13.042201174034117,4.689342125506734
+Deaths,Azerbaijan,Both,All ages,Physical violence by firearm,Number,2017,27.302100625518257,48.4232216696458,18.166387454311156
+Deaths,Turkey,Both,All ages,Self-harm by firearm,Number,2017,595.8049968030738,811.2663475253817,373.9994504551561
+Deaths,Turkey,Both,All ages,Physical violence by firearm,Number,2017,964.5758118229681,1285.9758275333875,785.3353544432141
+Deaths,Costa Rica,Both,All ages,Self-harm by firearm,Number,2017,61.79189202465323,88.04451001911114,49.25709645946309
+Deaths,Costa Rica,Both,All ages,Physical violence by firearm,Number,2017,388.2686443431158,448.2084239021715,328.9913888647412
+Deaths,Barbados,Both,All ages,Self-harm by firearm,Number,2017,0.6730977321584422,0.8374579909355181,0.5175149450088724
+Deaths,Sweden,Both,All ages,Unintentional firearm injuries,Number,2017,3.185967124596931,3.645930239351649,2.42450647321993
+Deaths,Ghana,Both,All ages,Unintentional firearm injuries,Number,2017,164.28371078485128,249.81983856506307,107.66281558741849
+Deaths,Uganda,Both,All ages,Self-harm by firearm,Number,2017,102.68401745937645,182.21964803035777,56.869866514297065
+Deaths,Uganda,Both,All ages,Physical violence by firearm,Number,2017,764.2294827839079,1073.953145255621,501.5052387273222
+Deaths,Bulgaria,Both,All ages,Self-harm by firearm,Number,2017,68.37879202318479,85.50025420804333,37.09843808362709
+Deaths,Bulgaria,Both,All ages,Physical violence by firearm,Number,2017,39.13928278658846,45.57985526879442,33.3633161269918
+Deaths,United Republic of Tanzania,Both,All ages,Unintentional firearm injuries,Number,2017,328.17552966182683,508.4810324185944,197.85649453872222
+Deaths,Jordan,Both,All ages,Unintentional firearm injuries,Number,2017,8.619621600082667,12.522905836171816,3.978242986368617
+Deaths,Brunei Darussalam,Both,All ages,Self-harm by firearm,Number,2017,0.21600426574781345,0.3078848085941909,0.11846695340846305
+Deaths,Brunei Darussalam,Both,All ages,Physical violence by firearm,Number,2017,0.3572160139638302,0.4585190691819842,0.2545182430804626
+Deaths,Jordan,Both,All ages,Self-harm by firearm,Number,2017,7.788164174968587,13.787675954546035,5.566113493921754
+Deaths,Jordan,Both,All ages,Physical violence by firearm,Number,2017,163.57982548884908,202.6854107118552,131.80019752552434
+Deaths,Russian Federation,Both,All ages,Unintentional firearm injuries,Number,2017,279.522684500683,339.8480054724835,192.87017712410412
+Deaths,Yemen,Both,All ages,Unintentional firearm injuries,Number,2017,119.12643415333922,296.99005266800225,29.855019211132852
+Deaths,Puerto Rico,Both,All ages,Unintentional firearm injuries,Number,2017,14.741268155392104,17.6908730012113,12.168783300679241
+Deaths,Yemen,Both,All ages,Self-harm by firearm,Number,2017,82.22188282427929,132.88259225974014,44.00111362172954
+Deaths,Puerto Rico,Both,All ages,Self-harm by firearm,Number,2017,30.38027921987192,38.52692182615402,23.790815816250063
+Deaths,Puerto Rico,Both,All ages,Physical violence by firearm,Number,2017,655.1217527158396,749.2605255500122,575.1208327968051
+Deaths,American Samoa,Both,All ages,Physical violence by firearm,Number,2017,0.20658500587670897,0.30260661477934525,0.13690387287998743
+Deaths,Iran (Islamic Republic of),Both,All ages,Self-harm by firearm,Number,2017,271.90213363247693,313.52574005916324,147.62376050634515
+Deaths,Switzerland,Both,All ages,Unintentional firearm injuries,Number,2017,3.637222665628933,5.105066979855555,3.029807076443329
+Deaths,Finland,Both,All ages,Self-harm by firearm,Number,2017,129.02795603709183,162.43990245607742,107.7427135092154
+Deaths,Finland,Both,All ages,Physical violence by firearm,Number,2017,11.666677818287964,12.6247788117909,10.760730020076792
+Deaths,Vanuatu,Both,All ages,Unintentional firearm injuries,Number,2017,1.1082741353236403,1.923645883957967,0.5096848163351636
+Deaths,Switzerland,Both,All ages,Self-harm by firearm,Number,2017,227.20532110754195,264.30409116260614,171.36931115210464
+Deaths,Switzerland,Both,All ages,Physical violence by firearm,Number,2017,17.375659272937636,18.831901657038497,16.122896370111192
+Deaths,Croatia,Both,All ages,Unintentional firearm injuries,Number,2017,3.2524931436398408,4.8860325516741785,2.5901526559443533
+Deaths,Iran (Islamic Republic of),Both,All ages,Physical violence by firearm,Number,2017,555.278179315502,706.0593878921508,491.6114641491886
+Deaths,Philippines,Both,All ages,Self-harm by firearm,Number,2017,108.5704251600765,148.51219540191815,56.11716291454999
+Deaths,Philippines,Both,All ages,Physical violence by firearm,Number,2017,9018.897678421235,11300.28757593581,7232.854590677397
+Deaths,Denmark,Both,All ages,Unintentional firearm injuries,Number,2017,1.4851981658387658,2.368828257027625,1.2456028417692548
+Deaths,Comoros,Both,All ages,Self-harm by firearm,Number,2017,2.7881817511511926,5.542777232828924,1.3327677492105159
+Deaths,Comoros,Both,All ages,Physical violence by firearm,Number,2017,22.673728203245883,32.47770767076352,14.324409927389418
+Deaths,Montenegro,Both,All ages,Self-harm by firearm,Number,2017,21.677120705992785,33.12899895026817,14.953339831692587
+Deaths,Montenegro,Both,All ages,Physical violence by firearm,Number,2017,6.811312006453531,8.244115043774967,5.519491485716008
+Deaths,Guinea-Bissau,Both,All ages,Self-harm by firearm,Number,2017,14.209003797933324,22.923116212605972,7.44967988337928
+Deaths,Guinea-Bissau,Both,All ages,Physical violence by firearm,Number,2017,54.169221370751266,74.40267725812463,37.91910992240201
+Deaths,Iraq,Both,All ages,Unintentional firearm injuries,Number,2017,1446.1631019736699,2075.6403426819,922.4982696925192
+Deaths,Thailand,Both,All ages,Unintentional firearm injuries,Number,2017,71.12048980131343,137.32034597763496,49.12170566426033
+Deaths,Guinea,Both,All ages,Unintentional firearm injuries,Number,2017,134.200359405391,244.97246472159583,71.54413524567116
+Deaths,Guinea,Both,All ages,Self-harm by firearm,Number,2017,67.69033169663663,117.29748574155296,35.43087395186353
+Deaths,Thailand,Both,All ages,Self-harm by firearm,Number,2017,384.0945187700212,538.3417315988454,188.47840083329845
+Deaths,Thailand,Both,All ages,Physical violence by firearm,Number,2017,2389.4267620254464,3117.057047558914,1798.4256060005055
+Deaths,Honduras,Both,All ages,Self-harm by firearm,Number,2017,33.436127378730596,70.35022575326974,21.299439148318793
+Deaths,Honduras,Both,All ages,Physical violence by firearm,Number,2017,1912.6959910862865,2705.922733900028,1293.1835507940282
+Deaths,Burundi,Both,All ages,Unintentional firearm injuries,Number,2017,121.84585100874233,197.525492725057,59.93998214271165
+Deaths,United Kingdom,Both,All ages,Self-harm by firearm,Number,2017,115.4772581419422,178.41194922564492,103.75465250611798
+Deaths,France,Both,All ages,Unintentional firearm injuries,Number,2017,127.93904010720715,145.6161703893437,76.7327554727685
+Deaths,United Kingdom,Both,All ages,Physical violence by firearm,Number,2017,22.549551247870784,23.265055894616797,21.784555159168296
+Deaths,Sri Lanka,Both,All ages,Unintentional firearm injuries,Number,2017,70.70068038883535,106.48875160646536,28.043579066728093
+Deaths,Botswana,Both,All ages,Self-harm by firearm,Number,2017,20.33144295134568,36.25796816240041,10.262034115522539
+Deaths,Argentina,Both,All ages,Self-harm by firearm,Number,2017,1188.874764521684,1450.7711563099024,1042.273372408518
+Deaths,Argentina,Both,All ages,Physical violence by firearm,Number,2017,1709.806155826648,1834.7476465347895,1585.4266204085513
+Deaths,Dominica,Both,All ages,Unintentional firearm injuries,Number,2017,0.315257070930215,0.4358690670308886,0.20188414690952125
+Deaths,Dominica,Both,All ages,Self-harm by firearm,Number,2017,0.10824408516884601,0.1674089898441193,0.06470925969321713
+Deaths,North Macedonia,Both,All ages,Unintentional firearm injuries,Number,2017,2.025771875178528,3.623509023921792,1.3740636463684797
+Deaths,Botswana,Both,All ages,Physical violence by firearm,Number,2017,87.79843332534594,142.50764430489352,48.99744713667378
+Deaths,Afghanistan,Both,All ages,Unintentional firearm injuries,Number,2017,87.47445298948219,191.0156929226856,19.1903274352718
+Deaths,Afghanistan,Both,All ages,Self-harm by firearm,Number,2017,93.50941438772591,160.14795992933898,52.40878336862898
+Deaths,Dominica,Both,All ages,Physical violence by firearm,Number,2017,2.487672791285504,3.228900115112633,1.7825169230604898
+Deaths,Tokelau,Both,All ages,Self-harm by firearm,Number,2017,0.0050971436316367595,0.010012308056711494,0.0024230300511609857
+Deaths,Afghanistan,Both,All ages,Physical violence by firearm,Number,2017,680.6046210731572,1125.9660339266804,475.57759727693616
+Deaths,Armenia,Both,All ages,Unintentional firearm injuries,Number,2017,14.839887679562045,17.614647902323743,12.846987847419001
+Deaths,Kuwait,Both,All ages,Self-harm by firearm,Number,2017,2.5223724167087016,3.2877245452841146,1.9375456124453985
+Deaths,Kuwait,Both,All ages,Physical violence by firearm,Number,2017,13.11029777208731,15.78415617131925,10.80086321324923
+Deaths,Tokelau,Both,All ages,Physical violence by firearm,Number,2017,0.005710335912922116,0.010399266613778917,0.0025395164186344413
+Deaths,Germany,Both,All ages,Unintentional firearm injuries,Number,2017,37.05700825408584,44.91294606114404,28.218225620862412
+Deaths,Germany,Both,All ages,Self-harm by firearm,Number,2017,893.1366514313696,1084.6652372088097,683.4604737366067
+Deaths,Germany,Both,All ages,Physical violence by firearm,Number,2017,81.90005347468562,87.80197198688464,77.18666243165006
+Deaths,Bangladesh,Both,All ages,Physical violence by firearm,Number,2017,1133.8967749741985,1659.4572138007402,842.7773622249546
+Deaths,Greece,Both,All ages,Physical violence by firearm,Number,2017,39.1514194409053,42.39588288729226,36.59303428362361
+Deaths,Guyana,Both,All ages,Self-harm by firearm,Number,2017,3.5686460948904277,5.794711615385543,2.551805273214765
+Deaths,Guyana,Both,All ages,Physical violence by firearm,Number,2017,82.1468282201518,102.42088051712773,64.583289024944
